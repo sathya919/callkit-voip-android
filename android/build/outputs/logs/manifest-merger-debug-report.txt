@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:1:1-63:12
+INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:1:1-63:12
+INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:1:1-63:12
+	package
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+		INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:4:22-66
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:5:22-72
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:7:3-72
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:7:20-70
+uses-permission#android.permission.INTERNET
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:11:3-75
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:11:20-72
+application
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:17:3-62:19
+	android:usesCleartextTraffic
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:18:9-44
+activity#com.test.callkit.androidcall.CallActivity
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:20:9-31:71
+	android:screenOrientation
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:22:13-45
+	android:turnScreenOn
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:26:13-40
+	android:showWhenLocked
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:28:13-42
+	android:launchMode
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:23:13-43
+	android:autoRemoveFromRecents
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:27:13-49
+	android:windowSoftInputMode
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:29:13-67
+	android:exported
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:25:13-36
+	android:configChanges
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:24:13-43
+	android:theme
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:21:13-53
+service#com.test.callkit.MyConnectionService
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:32:9-38:19
+	android:exported
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:34:13-37
+	android:permission
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:33:13-84
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:32:18-69
+intent-filter#action:name:android.telecom.ConnectionService
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:35:13-37:29
+action#android.telecom.ConnectionService
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:36:25-73
+service#com.test.callkit.androidcall.VoipForegroundService
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:39:9-43:47
+	android:enabled
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:43:13-36
+	android:stopWithTask
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:42:13-40
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:40:13-78
+receiver#com.test.callkit.androidcall.VoipForegroundServiceActionReceiver
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:44:9-46:20
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:45:13-92
+service#com.test.callkit.androidcall.VoipBackgroundService
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:47:9-53:19
+	android:enabled
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:50:13-37
+	android:stopWithTask
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:51:13-40
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:48:13-78
+service#com.test.callkit.MyFirebaseMessagingService
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:54:9-61:19
+	android:enabled
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:56:11-33
+	android:exported
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:57:11-35
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:55:13-71
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:58:13-60:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:59:17-78
+	android:name
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml:59:25-75
+uses-sdk
+INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+		INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+		ADDED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml
+		INJECTED from D:\callkit_sample\sample-test-ionic\sample-test-ionic\node_modules\voip-callkit\android\src\main\AndroidManifest.xml

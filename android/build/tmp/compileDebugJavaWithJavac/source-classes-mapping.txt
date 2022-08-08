@@ -1,0 +1,35 @@
+com/test/callkit/BuildConfig.java
+ com.test.callkit.BuildConfig
+com/test/callkit/androidcall/ApiCalls.java
+ com.test.callkit.androidcall.ApiCalls
+ com.test.callkit.androidcall.ApiCalls$1
+com/test/callkit/MyConnectionService.java
+ com.test.callkit.MyConnectionService
+ com.test.callkit.MyConnectionService$1
+ com.test.callkit.MyConnectionService$2
+ com.test.callkit.MyConnectionService$2$1
+com/test/callkit/CallKitVoipPlugin.java
+ com.test.callkit.CallKitVoipPlugin
+com/test/callkit/androidcall/RetreivedTokenCallback.java
+ com.test.callkit.androidcall.RetreivedTokenCallback
+com/test/callkit/MyFirebaseMessagingService.java
+ com.test.callkit.MyFirebaseMessagingService
+com/test/callkit/CallKitVoip.java
+ com.test.callkit.CallKitVoip
+com/test/callkit/androidcall/SettingsActivity.java
+ com.test.callkit.androidcall.SettingsActivity
+ com.test.callkit.androidcall.SettingsActivity$SettingsFragment
+com/test/callkit/androidcall/CallActivity.java
+ com.test.callkit.androidcall.CallActivity
+com/test/callkit/androidcall/util/Dialog.java
+ com.test.callkit.androidcall.util.Dialog
+com/test/callkit/androidcall/VoipBackgroundService.java
+ com.test.callkit.androidcall.VoipBackgroundService
+ com.test.callkit.androidcall.VoipBackgroundService$1
+com/test/callkit/androidcall/VoipForegroundService.java
+ com.test.callkit.androidcall.VoipForegroundService
+com/test/callkit/androidcall/VoipForegroundServiceActionReceiver.java
+ com.test.callkit.androidcall.VoipForegroundServiceActionReceiver
+com/test/callkit/androidcall/util/CameraCapturerCompat.java
+ com.test.callkit.androidcall.util.CameraCapturerCompat
+ com.test.callkit.androidcall.util.CameraCapturerCompat$Source
